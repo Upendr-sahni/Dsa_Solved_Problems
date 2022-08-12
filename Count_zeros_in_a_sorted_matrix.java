@@ -1,9 +1,9 @@
-GFG Basic Problem
+@ GFG Basic Problem
 
-Problem name : Count zeros in a sorted matrix
-Problem link : https://practice.geeksforgeeks.org/problems/count-zeros-in-a-sorted-matrix/1?page=3&category[]=Searching&sortBy=submissions
+@ Problem name : Count zeros in a sorted matrix
+@ Problem link : https://practice.geeksforgeeks.org/problems/count-zeros-in-a-sorted-matrix/1?page=3&category[]=Searching&sortBy=submissions
 
-Solution :
+@ Solution :
 
 class GfG
 {
