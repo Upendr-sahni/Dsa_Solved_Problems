@@ -1,13 +1,12 @@
 @ GFG_Basic_Problem
 
-@ Problem_name : Count zeros in a sorted matrix
-@ Problem_link : https://practice.geeksforgeeks.org/problems/count-zeros-in-a-sorted-matrix/1?page=3&category[]=Searching&sortBy=submissions
+@ Problem_name : "Count zeros in a sorted matrix"
+@ Problem_link : "https://practice.geeksforgeeks.org/problems/count-zeros-in-a-sorted-matrix/1?page=3&category[]=Searching&sortBy=submissions"
 
 @ Solution :
 
 class GfG
 {
-    /*you are required to complete this method*/
     int countZeros(int A[][], int N)
     {
         // Your code here
