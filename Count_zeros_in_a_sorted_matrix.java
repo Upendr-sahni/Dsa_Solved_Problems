@@ -1,7 +1,7 @@
-@ GFG Basic Problem
+@ GFG_Basic_Problem
 
-@ Problem name : Count zeros in a sorted matrix
-@ Problem link : https://practice.geeksforgeeks.org/problems/count-zeros-in-a-sorted-matrix/1?page=3&category[]=Searching&sortBy=submissions
+@ Problem_name : Count zeros in a sorted matrix
+@ Problem_link : https://practice.geeksforgeeks.org/problems/count-zeros-in-a-sorted-matrix/1?page=3&category[]=Searching&sortBy=submissions
 
 @ Solution :
 
