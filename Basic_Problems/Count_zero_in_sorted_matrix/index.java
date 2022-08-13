@@ -18,8 +18,8 @@ class GfG
                 count++;
                 j++;
             }else{
-                i--;
                 j=0;
+                i--;
             }
         }
         return count;
