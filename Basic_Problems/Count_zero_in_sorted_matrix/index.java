@@ -20,7 +20,6 @@ class GfG
             }else{
                 i--;
                 j=0;
-                
             }
         }
         return count;
