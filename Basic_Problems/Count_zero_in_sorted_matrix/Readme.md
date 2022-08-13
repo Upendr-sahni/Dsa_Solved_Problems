@@ -1,3 +1,5 @@
+[Problem Link](https://practice.geeksforgeeks.org/problems/count-zeros-in-a-sorted-matrix/1?page=3&category[]=Searching&sortBy=submissions)
+
 # Logic 
 
 Here we have to count numbers of zeroes occurs in the sorted matrix and return it.
