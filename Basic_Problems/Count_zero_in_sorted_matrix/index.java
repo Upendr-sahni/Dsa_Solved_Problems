@@ -19,7 +19,7 @@ class GfG
                 j++;
             }else{
                 i--;
-                j=0;   
+                j=0;
             }
         }
         return count;
